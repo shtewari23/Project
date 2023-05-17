@@ -1,0 +1,9 @@
+.MButton {
+  width: 99px;
+  height: 43px;
+  background-color: #bdc3c2;
+  border: 1px solid #bdc3c2;
+  color: #657372;
+  margin-right: 6px;
+  border-radius: 4px;
+}

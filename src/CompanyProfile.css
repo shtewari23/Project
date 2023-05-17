@@ -1,0 +1,22 @@
+.Mmobile {
+  margin-left: 6% !important;
+  display: flex;
+  justify-content: flex-start;
+  width: 106%;
+}
+.Mheading {
+  margin-top: -330px;
+  display: flex;
+  margin-left: 22%;
+  width: 90% !important;
+}
+.Mmobileheading {
+  margin-left: -200px;
+  margin-top: 70px;
+  width: 90%;
+}
+.Mwebheading {
+  margin-left: -230px;
+  margin-top: 70px;
+  width: 90%;
+}

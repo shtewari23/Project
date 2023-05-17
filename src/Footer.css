@@ -1,0 +1,12 @@
+.web {
+  margin-top: 220px;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 20%;
+}
+.mobile {
+  margin-top: 180px;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 5%;
+}
